@@ -1,0 +1,268 @@
+/* body{
+    background-color: gray;
+    height: 250px;
+} */
+/* .box{
+background-color: blue;
+
+height: 50px;
+width: 30px;
+} */
+/* .box1{
+    background-color: rgb(0, 255, 64);
+
+    height: 50px;
+    width: 30px;
+    } */
+    .star{
+        padding-left: 20px;
+    }
+    .trus p{
+        padding-left: 80px;
+    } 
+
+
+
+
+
+
+
+
+
+    .Professional{
+        background-color:rgb(22, 22, 61) ;
+        color: white;
+        height: 180px;
+        border-radius: 20px;
+        text-align: center;
+    }
+    .Professional h6{
+       font-size: 18px;
+       padding-top: 130px;
+       font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .online h4{
+        text-align: center;
+        color: blue;
+    }
+    .img1 h3{
+        color: white;
+        padding-top: 120px;
+        padding-left: 30px;
+    }
+    .img1{
+        background-image: url(./img/agri.jpeg);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .img2{
+        background-image: url(./img/business.jpeg);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .img2 h3{
+        color: white;
+        padding-top: 120px;
+        padding-left: 30px;
+    }
+    .img3{
+        background-image: url(./img/engi.jpeg);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .img3 h3{
+        color: white;
+        padding-top: 120px;
+        padding-left: 30px;
+    }
+    .img4{
+        background-image: url(./img/artdesign.jpeg);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .img4 h3{
+        color: white;
+        padding-top: 120px;
+        padding-left: 30px;
+    }
+    .img5{
+        background-image: url(./img/hospitality.jpeg);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .img5 h3{
+        color: white;
+        padding-top: 120px;
+        padding-left: 30px;
+    }
+    .us img{
+        height: 780px;
+    }
+    .choose h1{
+        padding-left: 140px;
+        color: white;
+    }
+    .choose{
+        margin-left: -20px;
+        padding-top: 50px;
+    }
+    .choose p{
+
+        font-size: 20px;
+        color: white;
+    }
+    .icon1{
+        padding-left: 35px;
+    }
+    .icon{
+        color: white;
+        width: 80px;
+        height: 80px;
+        border-radius: 100px;
+    }
+    .icon i{
+        font-size: 40px;
+        padding-left: 20px;
+        padding-top: 15px;
+    }
+    .btn{
+        text-align: right;
+    }
+    .btn button{
+        background-color: white;
+        padding: 10px;
+        width: 150px;
+    }
+    .back{
+        background-image: url(./img/hospitality.jpeg);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 300px;
+        border-radius: 20px 20px 0px 0px;
+    }
+    .stu {
+        background-color: rgba(0, 204, 255, 0.718);
+        color: white;
+        height: 50px;
+        border-radius: 20px 20px 0px 0px;
+        text-align: center;
+    }
+    .stu h6{
+        padding-top: 15px;
+    }
+    .stu1{
+        background-color: rgba(0, 204, 255, 0.718);
+        height: 220px;
+        border-radius: 0px 0px 20px 20px;
+        color: white;
+        padding-left: 20px;
+
+    }
+    .stu1 a{
+        text-decoration: underline;
+        color: white;
+
+    }
+    .a{
+        padding-top: 20px;
+    }
+    .stu1 span{
+        padding-left: 60px;
+    }
+    .stu1 h4{
+        color: black;
+    }
+
+    .test{
+        text-align: center;
+    }
+    .test1{
+        background-color: rgba(0, 204, 255, 0.718);
+        height: 350px;
+        text-align: center;
+    }
+    .test1 h2{
+        color: rgb(22, 22, 61);
+    }
+    .i i{
+        font-size: 30px;
+        /* padding-top: 50px; */
+    }
+    /* .logo img{
+       width: 300px;
+    } */
+    .footer img{
+        width: 100%;
+        height: 300px;
+
+    }
+    .footer1{
+        background-color: rgb(19, 19, 51);
+        height: 600px;
+    }
+    .footer1 a{
+        font-size: 20px;
+        color: white;
+    }
+    .num{
+        padding-left: 20px;
+        color: white;
+        padding-top: 30px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .num hr{
+        color: rgb(248, 2, 2);
+    }
+    .num1{
+        padding-left: 20px;
+        color: white;
+
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .num2{
+        padding-left: 20px;
+        color: white;
+
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .down span{
+        font-size: 17px;
+        color: white;
+
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .down{
+        /* padding-top: 20px; */
+        padding-left: 20px;
+    }
+    .down1 span{
+        /* padding-top: 20px; */
+        padding-left: 20px;
+        font-size: 17px;
+        color: white;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .end img{
+        width: 200px;
+        height: 200px;
+        margin-top: -60px;
+    }
+    .end1 i{
+        color: white;
+        padding-left: 20px;
+        font-size: 25px;
+    }
+    .end1{
+        text-align: right;
+        /* padding-top: 20px; */
+    }
